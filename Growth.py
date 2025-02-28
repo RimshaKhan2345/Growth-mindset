@@ -19,7 +19,7 @@ unsafe_allow_html=True
 )
 
 #title and description
-st.title("✨📀Datasweeper Sterling Integrator By Mehek Alamgir")
+st.title("✨📀Datasweeper Sterling Integrator By Rimsha Tariq")
 st.write("Transform Your Files Between CSV And EXCEL formats with built-in data cleaning App")
 
 #file uploader
